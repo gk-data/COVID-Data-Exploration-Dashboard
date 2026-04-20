@@ -38,7 +38,8 @@ The raw data underwent several stages of preparation:
 
 ## Key Insights:
 **Global Pandemic Summary:** A high-level overview of global cases (150.5 million) and deaths (3.18 million), with a global death percentage of ~2.11%.
-<img width="413" height="51" alt="Global numbers" src="https://github.com/user-attachments/assets/2a77c152-824e-4eff-a785-cb08b48de66e" />
+<img width="413" height="51" alt="Global numbers" src="https://github.com/user-attachments/assets/d99e8d6f-917a-4395-ab01-be922443ca9f" />
+
 
 **Infection Rate Comparisons:** Identifying countries with the highest infection rates relative to their population, such as Andorra (17.1%) and Montenegro (15.5%).
 <img width="676" height="402" alt="Infected %" src="https://github.com/user-attachments/assets/6a81ede2-a21b-4e62-9eb2-6478198c9f1f" />
